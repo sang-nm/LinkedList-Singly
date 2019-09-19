@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\LinkedList-Singly\Linked-List\bin\Debug\Linked-List.exe.config
+E:\Documents\Visual Studio 2015\Projects\LinkedList-Singly\Linked-List\obj\Debug\Linked-List.exe
+E:\Documents\Visual Studio 2015\Projects\LinkedList-Singly\Linked-List\obj\Debug\Linked-List.pdb
+E:\Documents\Visual Studio 2015\Projects\LinkedList-Singly\Linked-List\bin\Debug\Linked-List.exe
+E:\Documents\Visual Studio 2015\Projects\LinkedList-Singly\Linked-List\bin\Debug\Linked-List.pdb
+E:\Documents\Visual Studio 2015\Projects\LinkedList-Singly\Linked-List\obj\Debug\LinkedList-Singly.csprojResolveAssemblyReference.cache
